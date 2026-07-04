@@ -2,13 +2,13 @@
 
 A simple Flask web app that predicts the total water level of Chennai's four major reservoirs (Poondi, Cholavaram, Redhills, Chembarambakkam) based on rainfall input. Built as a beginner-friendly machine learning + web app project.
 
-Features
+# Features
 
 
-# 🔐 Simple login system (checks credentials against users.csv)
-# 🌧️ Enter rainfall data for the 4 reservoirs
-# 🤖 Predicts total water level using a trained ML model (best_model.pkl) and a feature scaler (scaler.pkl)
-# 🖥️ Lightweight — single app.py file, no complex setup
+ 🔐 Simple login system (checks credentials against users.csv)
+ 🌧️ Enter rainfall data for the 4 reservoirs
+ 🤖 Predicts total water level using a trained ML model (best_model.pkl) and a feature scaler (scaler.pkl)
+ 🖥️ Lightweight — single app.py file, no complex setup
 
 
 # Project Structure
